@@ -1,0 +1,23 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890786550915878",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890786550915878", 
+			  option ); 
+	  })() 
+	
+
+What's the key word about "poverty alleviation" in your mind? Farming, animal husbandry, or migrant workers? Now a post-1980s village official has explored a modern way to help fight poverty by exploiting online resources. Wu Yusheng, a poverty alleviation official in Gaibao village, Liping county, Southwest China's Guizhou Province, assists villagers to fight poverty with his team Qixiannü (seven fairies) through livestreaming and shooting short videos of the food, life, and culture of the Dong ethnic group. Wu started his poverty alleviation work in February 2018. Since he has failed in traditional businesses including farming and animal husbandry in his first month, the 31-year-old official noticed the emergence of short video apps and decided to cater to the trend."Villagers were conservative-minded actually," Wu said, "they teased me with 'not doing right business.'" In the beginning, without any experience of video shooting and management, Wu learned from photographers in the county and the internet independently. However, Wu's project did not run effectively.The team's name Qixiannü originates from a legend. "There is a Dong-style song in Gaibao village, which was brought to the Dong women by seven fairies and carried forward until now," Wu said. The legend gave Wu inspiration. In Wu's eye, women in Dong villages are fairies in reality, who can be chosen as the brand's image to promote Dong culture and help villagers sell local products on video apps. However, when he determined to pick up women to join him, nothing went smoothly. Wu Mengxia, now one of the members of Qixiannü, was found by Wu Yusheng when she was livestreaming on Kuaishou. "She thought I was a cheat. I had invited her twice, but she never responded," Wu Yusheng said. Besides, due to conservative minds, nobody believed that web hosting could be a decent job. "Nobody was persuaded the first time," Wu said.The situation turned better when Wu Lanxin, who then worked in an art troupe in Li Ping's Zhaoxing township, joined the team. "I accepted to join Qixiannü without hesitation when Mr Wu invited me since I am also fond of shooting videos via short video apps," Wu Lanxin said. 
+
+Members of Qixiannv are chatting on Fengyu Bridge, a unique architecture of the Dong ethnic group. Photo: Liu Xiaojing/GT After Qixiannü published several videos about Dong culture and harvesting followers, Wu Mengxia and another five women were persuaded to join the team.Wu Yusheng and his team have published 286 video clips on short video platform Kuaishou, amassing 150,000 followers so far. Their fame brought them business opportunities to help other villagers sell local products online, such as Dong clothing, home-made food, and tea to their followers, and the whole village is leaving poverty step-by-step.Wu and his team have achieved success. Now Gaibao village has removed the label of poverty, keeping the number of low income families in the whole village below 3 percent in line with the national standard. In addition, as for Qixiannü members themselves, their monthly income improved from 1,500 yuan to 5,000 yuan. "We hope more people will know Guizhou as well as Dong culture by our efforts," Wu Lanxin said.Wu Yusheng's success also lightened up villager's passion of self-employment. "Villagers have freed their minds and realized it is necessary to keep up with times to alleviate poverty," Wu said.Now Wu is preparing to establish a "wanghong (internet celebrity) college" in Liping county, and plans to train all web hosts in the county."There are over 400 villages in Liping county, and all of them can duplicate the methods of Gaibao village to alleviate poverty," Wu said. "I hope more grassroots wanghongs in Liping will spring up, like Qixiannü, promoting our culture and local products to fight poverty," he said. China opens its first Mars simulation base in Qinghai ProvinceChina lowers defense budget growth to 7.5% in 2019Chinese actor Li Dongxue talks about his role in the newest TV adaptation of Louis Cha's wuxia novel 'The Heaven Sword and Dragon Saber' 'Super' bloomFire drill
