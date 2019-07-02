@@ -1,0 +1,45 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890790992152439",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890790992152439", 
+			  option ); 
+	  })() 
+	
+The "@China" global short video contest, sponsored by the People's Daily, is underway. The contest is accepting work from short video creators, enthusiasts, and vloggers worldwide from June 18 to August 15. Candidates can enter by logging on to the contest's official website (hellochina.pdnews.cn) and submit a 3-minute or less video. The contest will run from June to September and is divided into multiple stages including submission gathering, judge evaluation, public viewing, and outstanding work recognition. Prizes for first, second, third place and awards for Most Creative, Best Photography Best Editing, Best Animation Design, Best Visual Effect, Most Popular, and Outstanding Organization, with a top cash bonus upwards of 100,000 yuan.  
+
+Photo: People's Daily New form, multiple perspectives, encouraging netizens to createIn recent years, the short video has become the fastest growing global internet phenomenon. More people are using short videos to record the changes around them, feelings of walking, and the modern landscape of the country and the world. To allow more of the world to get to know about China, People's Daily, in conjunction with the hottest internet communication form, is sponsoring the "@China" global short video contest. The competition is aimed at encouraging netizens both home and abroad to create a short video, capturing the changes of the times through a camera lens, record the beauty of China.The theme is "@China," and the organizing committee has chosen the topics "Speed·China," "Openness·China," "Travel·China," "Life·China," "Impression·China," and "Striving·China," where participants are encouraged to create and expand upon them to produce beautiful stories about "@China."Contestants are free to choose their creative paths while demonstrating their understanding of a chosen theme. Genre is not limited and all video submissions must be less than 3 minutes. Aspect ratios can be horizontal or vertical, and submissions that follow the format conditions will be eligible for the competition.  National selection, deep incentives, the best work will stand out globallyThe contest is organized in different stages, including video submission gathering, selection of all participants, and screening outstanding work. The submission stage is underway and will run until August 15. Domestic and foreign participants can submit their work on the contest's official website, along with all cooperating agencies and co-organizers. Once the selection stage is complete, the top videos will be selected to participate in the online voting round. Netizens will be able to log in to the Chinese and English versions of the People's Daily App and vote for their favorite videos. Outside of public voting, to ensure the integrity of the contest, the organizing committee will have a group of judges composed of media professionals, industry experts, professional video production agencies, and well-known directors. The group will judge each video based on content, theme, and communication. For the final stage, after the online votes have been tabulated and the expert reviews are completed, the award-winning videos will be selected. The winning short videos will be distributed and aired on multiple domestic and foreign media platforms, displayed at major landmarks and at distinguished universities, and shown on cinema screens. The award ceremony will be held in Beijing in late September. 
+
+
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890790992171331",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890790992171331", 
+			  option ); 
+	  })() 
+	
+ 
+        RELATED ARTICLES:  China's short video market soars in 2018: report Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Many frustrated Chinese EB-5 investors want their money backExperiencing 5GChinese Americans encouraged to take part in 2020 US Census
