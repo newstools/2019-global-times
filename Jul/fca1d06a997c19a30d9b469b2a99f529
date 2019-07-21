@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890791769489838","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890791769489838",
+                       option
+                   );
+             })()
+ 
+Editor's Note: Hong Kong native Kenneth Fok Kai-kong, a deputy to the Chinese People's Political Consultative Conference (CPPCC), has called for peaceful means to resolve the city's problems, during an interview with Global Times (GT) reporters Fan Linzhi and Yang Sheng Saturday at the scene of the anti-violence assembly.GT: Why did you join today's rally? Fok: Since mid-June, we've seen a lot of TV footage that we never expected to see. Expressing our views in Hong Kong should not be an excuse for violence. Violence does not solve any problem. We've seen the situation escalate over the past month, not in terms of scale, but in terms of measures. A finger of a police officer has been bitten off. Would a human being do that? Are we still in a civilized society? We cannot take it anymore. That's why everyone came out today to this rally. GT: Many think Hong Kong young people are to be blamed for radical protests. What's your take? Fok: I believe most Hong Kong young people are not violent, and don't like violence. I don't think all the problems that Hong Kong faces today were caused by the young generation. It's widely heard that young people today are struggling with limited opportunities and room for further development. This does not represent all Hong Kong young people, but I know authorities have been actively seeking to communicate with them. GT: Some suggest external forces helped and plotted the violent scenes in recent protests. Do you agree? Fok: On the question of external forces, what I can say is that they [radical protesters] are well organized, and young people are affected. I don't want to speculate, but want to emphasize that we should think about "how to be a better person." 
+        RELATED ARTICLES:  HK native Kenneth Fok calls for peaceful means to resolve problems at pro-govt rally Hong Kong holds massive pro-government, anti-violence rally On the ground at the Hong Kong anti-violence rally Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Earthquake inspectionSummer SplashMany frustrated Chinese EB-5 investors want their money back
