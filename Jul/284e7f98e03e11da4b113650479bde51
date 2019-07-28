@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890790258197557","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890790258197557",
+                       option
+                   );
+             })()
+ 
+ 
+        RELATED ARTICLES:  Actor Leung in stereotype controversy over Marvel film character Who could be the first superhero of Chinese ancestry in Marvel Cinematic Universe South Americans marvel at total solar eclipse Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Working goatsEarthquake inspectionSummer Splash
