@@ -1,0 +1,25 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890792250610602",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890792250610602", 
+			  option ); 
+	  })() 
+	
+
+
+Artists sculpt busts of soldiers at the National Art Museum of China in Beijing on Thursday, the 92nd anniversary of the People's Liberation Army's founding. Photo: VCGWhether it was the most touching soldier love story or the best-looking idol in uniform, Chinese internet users paid tribute to the People's Liberation Army (PLA) in their own way on Thursday, the 92nd anniversary of its founding.The hashtag "fairy love stories of soldiers" was viewed nearly 27 million times with users expressing admiration and respect to soldiers and their spouses on China's Twitter-like Sina Weibo. One wife expressed her love for her solider husband, posting "You do not only belong to me, but also to the country. I hope I can stand by your left side all life long as your right hand should be used to salute the country." Net users posted photos of TV celebrities like Zhang Yixing and Jackson Yee in military uniform. A poll to choose "the best-looking star wearing a military uniform" was viewed more than 140 million times.  DF Express, a Sina Weibo account of the PLA Rocket Force, announced Thursday that the shooting of the first TV drama on the PLA Rocket Force -The Glory of Youth - starring Chinese actor Li Yifeng will start soon.
+
+A post of The Glory of Youth Photo: DF Express Sina Weibo account China's second aircraft carrier the Type 001A reportedly set out on its seventh sea trial from Dalian in Northeast China's Liaoning Province, on Thursday, prompting net users to suggest this was a birthday present to the PLA.Military observers meanwhile pointed out that the PLA was conducting military exercises in the East and South China Seas on Thursday, which were widely believed to be targeted at Taiwan secessionists.Spending the anniversary practicing reunifying the island would be especially meaningful, some internet users suggested.The PLA Ground Force, Navy, Air Force, Rocket Force all celebrated the day on social media, while the Ministry of National Defense released a video introducing the might of the PLA.Armored vehicles including tanks and howitzers, the Liaoning aircraft carrier combat group and J-20 stealth fighter jets were shown in the videos.A video by PLA Daily recalled the path the PLA has come from in the past 92 years and thanked the people.The PLA Hong Kong Garrison released a video on Sina Weibo showing soldiers in exercise and training, vowing to be an anchor for the prosperity and stability of Hong Kong. The video had gained nearly 135,000 likes and 37,000 reposts as of press time. It ignited online patriotic enthusiasm."My sense of safety is that when danger comes, you will always appear," read one typical comment. "My sense of safety is that when I am asleep every night, you are always there protecting my slumber. Respect to the Chinese military," said another.    
+        RELATED ARTICLES:  Merit citations indicate PLA Navy’s weapon development  Tourists visit China’s Military Museum to welcome the 92nd founding anniversary of PLA PLA Garrison in Hong Kong SAR marks 92nd anniversary of PLA founding Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Working goatsEarthquake inspectionSummer Splash
