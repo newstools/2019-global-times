@@ -1,0 +1,25 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890792350663687",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890792350663687", 
+			  option ); 
+	  })() 
+	
+A group of patriotic Chinese raised the Chinese national flag and sang the national anthem at Hong Kong’s Victoria Harbor early Sunday morning, after some protesters on Saturday removed a Chinese national flag from its pole and tossed it into the Harbor in a move clearly aimed at tarnishing China’s dignity. The Hong Kong Special Administrative Region government has condemned the protesters for damaging the national flag and challenge national sovereignty.In a Facebook post on Saturday, former Hong Kong chief executive Leung Chun-ying strongly condemned the move and offered HK$1 million ($128,000) to anyone who can offer police information leading to the arrest of the person who threw the national flag into the sea.The Global Times contacted the Harbor City Saturday afternoon, but a staff member replied that it needs five to seven work days for its public relations personnel to respond.According to the National Flag and National Emblem Ordinance, "A person who desecrates the national flag or national emblem by publicly and wilfully burning, mutilating, scrawling on, defiling or trampling on it commits an offence and is liable for a conviction to a fine of level 5 and to three years' imprisonment."
+
+Photo: Chen Qingqing/GT Anna Chan, a patriotic activist known for her firm stance, organized the flag-raising ceremony early Sunday morning. She told the Global Times that when she saw demonstrators throwing the national flag into the sea, she got very angry."Such behavior really hurts our feelings. We're Hong Kong residents and we are all Chinese. Protecting our flag and national emblem is always our responsibility," Chung Wah sun, a resident from Yuen Long and one of the patriots, told the Global Times.When the patriotic Hong Kong residents sang the national anthem, dozens of passengers stood still around the venue to witness the moment together, and one passenger saluted the Chinese national flag.When the Global Times reporter tried to reach him after the singing of the anthem, he just left. Another passenger surnamed Li said, "Now you know there are many Hong Kong people who love the motherland. They are just not as high-profile as those protesters."Hong Kong once again was plunged into chaos Saturday as thousands of demonstrators, for the ninth consecutive weekend, occupied a major downtown shopping district. There were more skirmishes between the protesters and local police.The months-long demonstrations organized by opposition forces have turned into a secessionist campaign. The Global Times reporter witnessed extreme "Hong Kong pro-independence" elements during Saturday's protests.The protests, which the police had earlier approved, began in Mong Kok, but soon deviated from the allowed route and went south into Tsim Sha Tsui, a major downtown shopping district. Anti-government protesters blocked a tunnel tollgate at Hung Hom and rudely told passengers to get off a bus.The deliberate unrest brought the busiest shopping area to a standstill. Demonstrators besieged the Tsim Sha Tsui Police Station and pointed laser pens at police as provocation.
+
+Photo: Yang Sheng/GT Around 9 pm, protesters wearing black shirts, helmets and face masks set fire to a pile of cardboard outside the police station. They also threw gas canisters, sticks and iron bars at police and shined lasers into officers' eyes.Firefighters arrived quickly and extinguished the flames. Police later used tear gas to clear the protesters from outside the station.The unrest prompted all the shops in nearby areas to close and trains to skip two Kowloon stations.Bystanders were also caught in the middle. A mainland tourist accidentally entered the blockade line and as she didn't speak Cantonese, she became very emotional.Around 3 pm, pro-establishment groups held another music gathering at Victoria Park calling for anti-violence. Innes Tang from the Politihk Social Strategic said he wanted to send a message to Hong Kong society that people can express their opinion without using bricks. 
+        RELATED ARTICLES:  Video: Hong kong radical protesters surrounded Tsim Sha Tsui police station China will never buckle under Washington's old trick of trade bullying Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Working goatsEarthquake inspectionSummer Splash
