@@ -1,0 +1,21 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890792344630734",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890792344630734", 
+			  option ); 
+	  })() 
+	
+Hundreds of radical protesters in Hong Kong surrounded Tsim Sha Tsui police station on Saturday night, pointing laser pens at the building and throwing projectiles through the entrance, which are clearly provocative and may cause violence. Hours ago, four black-clad protesters near the Star Ferry pier lowered China's national flag from its pole, removed it and threw the flag into the harbor, a criminal act violating Hong Kong special administrate regional law. Protesters gathered in Mong Kok around 4 pm in a local park. However, protestors deviated from the route approved in advance by police and continued to head to Tsim Sha Tsui, seriously affecting business and traffic in the area. Some businesses shut down their operations earlier. Regarding the Saturday rally, Senior Superintendent Yu Hoi-kwan, Police Public Relations Branch, said that the protestors who deviated from the original permitted route had violated the law.Police said that there were up to 4,200 people attending the protest at its peak.At around 5:40 pm, four black-clad protesters near the Star Ferry pier lowered China's national flag from its pole there, removed it and threw it into the harbor, according to local newspaper Takungpao. The Global Times saw a group of protesters in black shirts and covered with black masks throw the flag into the nearly harbour. There was no security guard present.According to Hong Kong's National Flag and National Emblem Ordinance, "a person who desecrates the national flag or national emblem by publicly and willfully burning, mutilating, scrawling on, defiling or trampling on it commits an offense and is liable on conviction to a fine at level-5 and to imprisonment for 3 years."The incident follows a series of recent riots engulfing Hong Kong. For example, on July 21, radical protesters besieged the Liaison Office of the Central People's Government in Hong Kong SAR and tarnished the national emblem of China. Hong Kong police arrested a man on July 26 on suspicion of damaging the door at the liaison office and throwing eggs at the office.  
+        RELATED ARTICLES:  Thousands of HK residents rally to display support for local police force Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Working goatsEarthquake inspectionSummer Splash
