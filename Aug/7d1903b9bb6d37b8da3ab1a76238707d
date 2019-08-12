@@ -1,0 +1,20 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890792730561778","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890792730561778",
+                       option
+                   );
+             })()
+ 
+The People's Armed Police have been assembling in Shenzhen, a city bordering Hong Kong, in advance of apparent large-scale exercises, videos obtained by the Global Times have shown.Numerous armored personnel carriers (APC), trucks and other vehicles of the Armed Police were seen on expressways heading in the direction of Shenzhen over the weekend and assembling there, the videos indicate.In one video, which is only about 10 seconds long, 10 APCs pass by.The main guns of the APCs appear to have been removed from their turrets.
+
+A convoy of the People's Armed Police is seen heading toward Shenzhen for exercises. Photo: screenshot from videos obtained by the Global TimesThe tasks and missions of the Armed Police include participating in dealing with rebellions, riots, serious violent and illegal incidents, terrorist attacks and other social security incidents, according to the Law of the People's Republic of China on the People's Armed Police.Unlike the police which are under the Ministry of Public Security, the People's Armed Police is under the leadership of the Central Military Commission.On August 6, Shenzhen police also conducted a massive drill featuring 12,000 police officers, armored vehicles, helicopters and amphibious vehicles.
+
+Armored personnel carriers of the People's Armed Police are seemingly gathering and heading toward Shenzhen for exercises. Photo: screenshot from videos obtained by the Global TimesGlobal Times 
+        RELATED ARTICLES:  Mass police drill in Shenzhen   Hong Kong residents rally to denounce violence, support police force Party reforms People’s Armed Police Force Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Working goatsEarthquake inspectionSummer Splash
