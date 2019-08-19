@@ -1,0 +1,22 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890793026642690",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890793026642690", 
+			  option ); 
+	  })() 
+	
+
+Chan Cheuk-hay, president of Hong Kong College of Technology's institute of higher education. Photo: Chen Qingqing/GTAnti-government forces should stop using young students as hostages to escalate divergence to reach their political purpose as many have been involved in street protests over the past two months, Chan Cheuk-hay, president of Hong Kong College of Technology's institute of higher education, told the Global Times. Since mid-June, black-clad protesters, many of them high school and middle school students, turned out to protest and were also encouraged by their teachers. The Global Times reporters spoke with parents in Hong Kong who said that their children have been brainwashed by anti-government forces and the wide use of social networks like Telegram and LIHKG has helped circulate biased information and reports which constantly smear the image of the Hong Kong Special Administrative Region (HKSAR) government and the police force. "Many young students have a deeply rooted misunderstanding concerning the HKSAR government, mainland and government policies, and they have been misguided by adults and seriously disturbed by biased public opinion," Chan said. After being misled, students consider that "they are doing something great" and they have to do it no matter the cost, Chan noted. "At their age, these young activists have a rebellious spirit. Some of them are highly likely to risk their lives to do something that we, as adults, wouldn't do. Some people will probably use this chance to intentionally make students sacrifice," he said.Chan called for an end to the violence and stopping the use of innocent students as "pawns" for political purposes. Some teachers encouraged students to participate in strikes without fully explaining the reasons about what they are fighting for, Chan said. "A teacher told the kid of one of my friends that she will be graded higher if she takes part in those anti-government demonstrations. This is a highly irresponsible way of educating young people," said a mother who lives in Yuen Long who requested anonymity. Without proper guidelines, self-centeredness, arrogance without rules and a bottom line as well as egoism will turn into extremism, according to Chan. The HKSAR government has also urged campuses to return to peace and not disturb students as the new semester will soon begin. "The liberal studies in secondary school aims to train critical thinking, but problems emerged during the teaching process as each school can design its own textbook and it depends on teachers how to teach them," said Chan.Some teachers will teach students in a very biased manner, Chan said. The Hong Kong Examinations and Assessment Authority, which reviews the exam results of students, does not play a positive role in helping Hong Kong students shape their values as some education system representatives also hold "very radical views," Chan said. "If they only teach them to have critical thinking and become judgmental without providing arguments, students can say 'no' to everything without a precise thinking process," Chan said. Hong Kong's education needs to be reformed, which also requires joint efforts of policymakers, parents and educational staff, he said. "The violence should end and we should tell them the truth. It's our responsibility not to let young people be kidnapped by anti-government forces as they deserve a better future," he said.Newspaper headline: Students used as ‘hostages’ 
+        RELATED ARTICLES:  No connection between Hong Kong, trade war: FM Over 470,000 people in Hong Kong say "no" to violence Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Chinese-American player keen to grow NFL in ChinaVictims rememberedWorking goats
