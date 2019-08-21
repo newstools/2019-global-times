@@ -1,0 +1,21 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890793101927716",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890793101927716", 
+			  option ); 
+	  })() 
+	
+ 
+        RELATED ARTICLES:  Patriotic Hongkongers raise Chinese national flag in Victoria Harbor Radical Hongkongers launch cyber violence Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Chinese-American player keen to grow NFL in ChinaVictims rememberedWorking goats
