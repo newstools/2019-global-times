@@ -1,0 +1,18 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890793088704951","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890793088704951",
+                       option
+                   );
+             })()
+ 
+
+
+Radical protesters in Hong Kong block a road and assault police on July 21. Their behavior was widely condemned. Photo: Fan Lingzhi/GT Hong Kong lawmakers and experts called for legislation banning masks at protests due to escalating violence over the last two months, a move they believed would curb rampant illegal actions by extreme protesters and protect the public security of the city.Black T-shirts, masks and yellow helmets are essential equipment for anti-government protesters in Hong Kong, who have blocked roads and paralyzed the city. The masks entice protesters to become rioters and hinder law enforcement, some Hong Kong lawmakers pointed out. In protests over the last two months, some protesters were not simply protesting but also violently attacking [people and police], Junius Ho Kwan-yiu, a Hong Kong pro-establishment legislator told the Global Times on Thursday. "They prepared with helmets, marbles, bows and arrows, which already go beyond the scale of democratic demands," Ho said.This makes an anti-mask law "very necessary," Ho said. "If protesters think they are saying the right thing, why can't they [tear off masks and] face the public?"The law will help prevent violent demonstrations and illegal actions, Ho said. Chan Man-ki, a founding president of the Small and Medium Law Firms Association of Hong Kong, told the Hong Kong-based Wen Wei Po newspaper that as violent actions in Hong Kong "got close to terrorism," masks presented "huge difficulties" for police seeking to collect evidence for prosecutors. Experts pointed out that a mask ban is applied in Germany, Canada and Russia, as well as some American states and cities such as New York City. A Hong Kong protester was asked to take off his mask by two German police officers at a gathering of patriotic Chinese people in Koln on August 17, according to online videos. The protester, who allegedly intended to disturb the gathering, walked off after taking off the mask at the police's request. In Canada, people wearing masks at illegal protests can be sentenced up to 10 years in prison, Wen Wei Po reported.Newspaper headline: HK lawmakers call for ban on masks 
+        RELATED ARTICLES:  Hong Kong's MTR worker condemns harassment by protesters Chinese diplomats across the world slam foreign interference in Hong Kong’s affairs Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
