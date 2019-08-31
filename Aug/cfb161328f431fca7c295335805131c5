@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890793499083693","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890793499083693",
+                       option
+                   );
+             })()
+ 
+Hong Kong police have fired water cannons at violent protesters who have hurled hard objects into the Hong Kong government complex, media reported.Illegal protesters in Hong Kong took to the streets on Saturday afternoon and launched  a series of sabotages, including barricading roads, damaging traffic lights and provoking police officers. A large group of protesters vandalized public facilities and hurled petrol bombs into the premises of Hong Kong regional government complex. After repeated warnings went futile, police fired tear gas and exercised minimum force to disperse the protesters, according to Hong Kong police force.The protesters also damaged traffic lights and railings in Pedder Street and Johnston Road. Some of the protesters beamed laser lights at police officers, posing a safety threat to everyone on site, Hong Kong police force said. At around 5 pm, illegal protesters arrived at Des Voeux Road, Sheung Wan, after the Sheung Wan MTR station was closed.A man tried to remove the road barrier placed by protesters but he was roughed-up and driven away by them.Many stores in the Sai Ying Pun area have been shut down, as illegal protesters headed  toward this neighborhood where the liaison office of the central government in Hong Kong is located. Sai Ying Pun is a well-known place for selling seafood in Hong Kong Island, however, very few people were seen here on Saturday due to fear of the protest. Several bus routes and the MTR train service at the Sai Ying Pun remained suspended on Saturday. Global Times 
+        RELATED ARTICLES:  Many stores in Hong Kong have been shut down during protest Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
