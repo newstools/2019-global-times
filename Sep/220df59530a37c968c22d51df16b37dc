@@ -1,0 +1,24 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890793613953477",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890793613953477", 
+			  option ); 
+	  })() 
+	
+
+
+
+Photo: Wang Cong/GT Carrie Lam, Chief Executive of the Hong Kong Special Administrative Region (HKSAR), said on Tuesday that she has never submitted any resignation to the central government, and she is confident that she can lead the city out of its current crisis. "A conversation from a private party has been made public. I think it's very inappropriate. I am very disappointed," Lam said, in response to an audio recording of her private speech made public by Reuters. "I said on several occasions that throughout the period, I have never submitted resignation to the central government. The choice not to resign is my own. I told myself that my team and I should stay on. It is not an easy path but I'd rather stay with the people of Hong Kong," she said. A report from Reuters on Monday stated that Lam said she has caused "unforgivable havoc," by causing the ongoing protests across Hong Kong, and would quit if she had a choice. This was reported on the basis of an audio recording of remarks she made last week during a closed-door meeting with a group of businesspeople.Lam also allegedly said that if she had the choice, "The first thing [I would do] would be to quit, having made a deep apology," the Reuters report said."My speech in the audio [released by Reuters] was private. It was not a speech that was expected to be made public, so there was no deliberate implication in my choice of words," Lam said.This news followed another Reuters "exclusive" report released on Friday, which claimed that Lam had submitted a proposal to Beijing earlier this summer, asking for five key demands from the Hong Kong protesters to be taken seriously, and the proposal was subsequently rejected. The Global Times has since learned the Reuters "exclusive" story is fake.As the chief executive of Hong Kong, Lam said that she has gone through some soul-searching. "There are big swings in my mood, but my final decision is to find a common direction and goal for Hong Kong residents. My team and I are working very hard to create this goal, but we need to work together."Lam also reiterated that the shared, primary objective is to stop the violence and restore calm to Hong Kong society as early as possible. Hong Kong is a society ruled by law, so the rule of law must be used, including the police force and the department of justice."The important means of stopping violence is the rule of law, including the police's right to arrest, prosecution without outside interference, and the court's fair sentence," she said.  
+        RELATED ARTICLES:  HK situation shows sign of change, but remains complex HK govt slams school strikes HK university urges students to cancel in-campus assembly Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
