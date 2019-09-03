@@ -1,0 +1,21 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890793640974853","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890793640974853",
+                       option
+                   );
+             })()
+ 
+
+
+
+
+Photo: WeChat account of the PLA Air Force
+ 
+The People's Liberation Army (PLA) Air Force for the first time showcased seven J-20 stealth fighter jets, the largest J-20 formation ever publicly shown, on Tuesday, leading experts to say China's military is already operating a considerable number of J-20s, which could achieve regional aerial superiority and destroy the enemy's strategic facilities deep in hostile territory.In a video released by the PLA Air Force on social media on Tuesday, which was also the 74th anniversary of the victory in the War of Resistance against Japanese Aggression (1931-45), as many as seven J-20s can be seen flying in formation.The number of J-20s flying in formation has gradually increased from two to five, and now seven, since China's most advanced fighter jet made its first public appearance at Airshow China in Zhuhai, South China's Guangdong Province, which was held in November 2016.Each increase in the number of J-20s has attracted considerable attention from military enthusiasts, Wang Ya'nan, chief editor of Aerospace Knowledge magazine, told the Global Times on Tuesday, noting that it reflects the scale and level at which the PLA Air Force is operating its fighter jet."A considerable number of units are probably ready to fly the J-20," Wang said.Meanwhile, the PLA Air Force has not disclosed the total number of J-20s at its disposal. "If seven J-20s are sent simultaneously into battle, they would have a significant striking capability with their air-to-air and air-to-surface weapons," Wang said.He noted that they could achieve regional air superiority and destroy enemy strategic nodes deep in hostile territory."To truly achieve peace, defending our homeland is not enough. We must not only defend but attack," said Yang Wei, J-20's chief designer, in the video."I feel really proud for my motherland. Respect to the guardians of the sky!" a Chinese net user commented on the video. Other Chinese internet users expressed their fervent desire to see the J-20s appear in the upcoming military parade on October 1 to celebrate the 70th anniversary of the founding of the People's Republic of China.Wang said that in actual combat stealth fighter jets like the J-20 would not fly together in large numbers, but in twos or threes to achieve the highest combat potential, so the seven seen in the video could have been conducting a rehearsal for the upcoming national day parade. .In July, the PLA Air Force for the first time released a photo of a J-20 stealth fighter jet with the serial number of a combat unit, indicating that the warplane has completed trials. 
+        RELATED ARTICLES:  J-20 fighter makes combat unit debut J-20 variant may be world’s first two-seat stealth fighter jet: report Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
