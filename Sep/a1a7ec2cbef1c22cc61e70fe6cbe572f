@@ -1,0 +1,24 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890793621303483",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890793621303483", 
+			  option ); 
+	  })() 
+	
+ 
+Video: gov.hk
+
+Photo: screengrabHong Kong Chief Executive Carrie Lam and other regional government officials on Tuesday morning attended a ceremony to commemorate the Victory Day of the Chinese People's War of Resistance against Japanese Aggression (1931-1945).Tuesday marks the 74th anniversary of the Victory Day. Lam attended the ceremony before she met with press to clarify a Reuters report that claims she "would quit if she could." Lam said she had never submitted resignation to the central government and the choice to stay on is her own. She reiterated her confidence to lead the city out of its current crisis.According to the video clip released by the Hong Kong government on its official website, Lam first held a ceremony to raise the Chinese national flag and then sang the national anthem with the other attendees. Hong Kong police then fired 21 shots in honor of the martyrs.The ceremony also included a silence tribute, the presentation of wreaths, and bowing. Since 2014, the Hong Kong government has held official ceremonies to commemorate the Victory Day on September 3, but this year, unlike past ceremonies, media were not informed about the event. In response to media enquiries, Hong Kong's Home Affairs Bureau said that in response to recent social conditions and security considerations, media interviews were not arranged for this event.Apart from Lam and other Hong Kong government officials, Tung Chee-hwa, Vice Chairman of National Committee of the Chinese People's Political Consultative Conference, Wang Zhimin, director of the Liaison Office of the Central People's Government in Hong Kong Special Administrative Region, and Xie Feng, commissioner of the Ministry of Foreign Affairs of China in the HKSAR, and Donald Tsang Yam-kuen, former Hong Kong chief executive, also attended the ceremony. Global Times  
+        RELATED ARTICLES:  HK Chief Executive Carrie Lam rebuts Reuters report, claims she never submitted resignation to central government HK situation shows sign of change, but remains complex HK govt slams school strikes Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
