@@ -1,0 +1,19 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890793662160541","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890793662160541",
+                       option
+                   );
+             })()
+ 
+
+Video: Information Services Department, HKSARG
+
+Photo: video screengrab Hong Kong Chief Executive Carrie Lam Cheng Yuet-ngor on Wednesday announced that the regional government will formally withdraw an extradition bill that has been used by radicals as an excuse to start violent protests, in an apparent move to end months of unrest that has rocked the city. The decision to formally pull back the bill marks a significant step by the Hong Kong Special Administrative Region (HKSAR) government to show its sincerity in resolving tensions, and its commitment to address the political crisis that has seriously dented the SAR's global image. Though the move is meant to show the SAR government's sincerity in addressing the political crisis, it should not be seen as a concession by Lam that could lead to a slippery slope, and radical forces should not have any illusion of winning ground on matters related to the "one country, two systems" principle that governs Hong Kong and China's sovereignty, officials and experts said.Initially proposed in February to fix loopholes in Hong Kong's extradition laws after a murder case in Taiwan involving two Hong Kong residents, the bill has been interpreted by radical elements to spur anger among Hong Kong residents toward the SAR government and the central government in pursuit of ill-intentioned political goals.Prior to Wednesday's complete withdrawal, Lam had already suspended the bill on June 15. The chief executive again announced on July 9 that the bill "is dead" but violent protesters continued to engage in riots, and made four other demands that many in the city and on the mainland consider as unreasonable and touching on the bottom line of the "one country, two systems" principle that governs the SAR.The central government has expressed support for Lam's decision to suspend the bill to restore calm. "We support, respect and understand this decision," a spokesperson for the Hong Kong and Macao Affairs Office of the State Council said on June 15.Yang Guang, a spokesperson for the office, again expressed the central government's full support for the SAR government to take "all necessary measures" to stop the violence and riots, which he said has started to show clear signs of terrorism and threatened the city's future and the country's sovereignty.  
+        RELATED ARTICLES:   Families call for solidarity, harmony in Hong Kong  FLASH: 6.3-MAGNITUDE QUAKE HITS EAST COAST OF HONSHU, JAPAN: HONG KONG OBSERVATORY Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US How Trump's immigration reform will affect new immigrantsFootvolley tournamentChinese-American player keen to grow NFL in China
