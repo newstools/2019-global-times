@@ -1,0 +1,23 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890793808380448",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890793808380448", 
+			  option ); 
+	  })() 
+	
+
+
+File photo: VCGThe first joint rehearsal for the upcoming National Day celebrations ended early Sunday morning in Beijing, about three weeks ahead of the 70th anniversary of the founding of the People's Republic of China (PRC), which falls on Oct. 1.The rehearsal was held from 11 p.m. Saturday to the wee hours on Sunday in Tian'anmen Square in downtown Beijing. About 90,000 people were involved in the rehearsal and related supporting services.A total of six parts of the celebrations were rehearsed, including a grand military parade, a mass pageant and performances as well as the on-site test of the control system of fireworks display, according to the media center for the celebration of the 70th anniversary of the PRC.The rehearsal was well organized and reached the expected results, according to the center.Beijing municipal authorities expressed appreciation of local residents for their understanding and support of the rehearsal. 
+        RELATED ARTICLES:  Xi Jinping to give important speech at National Day celebrations China to hold grand celebration, military parade on National Day Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US College admission scandal reveals moral breakdown in USSaying no to violenceHow Trump's immigration reform will affect new immigrants
