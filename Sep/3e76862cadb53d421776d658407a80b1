@@ -1,0 +1,18 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794225123746","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794225123746",
+                       option
+                   );
+             })()
+ 
+
+
+Photo: Lu Wenao/GT In a day-long "Clean Hong Kong" campaign launched by Hong Kong pro-establishment legislator Junius Ho Kwan-yiu and his supporters, the streets of all of the city's 18 districts underwent a coordinated cleaning on Saturday. Around 9 am, Ho was seen in the town square of Tuen Mun holding a broom and cleaning streets and he was joined by dozens of other people with brooms and dust-pans. Speaking to the Global Times around 11 am in Shau Kei Wan, Ho said he launched the campaign to cheer up the Hongkongers and rekindle their spirit as the city has been dealing with utter chaos stemming out from three months-long violent protests. He hoped this campaign will unite the Hong Kong people. .Ho, who has been vocal against violent protests that prevailed in Hong Kong, had called for the cleaning up of the Lennon walls across the city that have cropped up in footbridges, shopping centers, and pedestrian walkways. Democratic and anti-government slogans, as well as demeaning and insulting words, and images targeting certain people are stuck to these walls. Global Times reporters witnessed Ho's profile photos pasted all over on the floor of a footbridge in Causeway Bay, which were difficult to get rid of.Lennon walls have been a center of conflicts between protesters and those opposing them, and in the past few months these Lennon walls have been the site of several attacks and assaults. On August 20, a knife attack near one such Lennon wall message board in Tseung Kwan O left three wounded.On Friday night, Ho announced on his Facebook page that his team would only clean up rubbish from the streets due to "safety concerns" and they would do it with a peaceful and rational attitude.In his conversation with the Global Times, Ho said he did not worry about potential conflicts with opposition groups as he and his followers were engaged in a peaceful activity rather than cleaning Lennon walls where opposition groups put up their anti-government slogans."Some young people have taken the wrong path and resorted to wrong strength, and I hope today's campaign can set a good example for them," Ho added.Despite Ho's call for not cleaning the Lennon walls, some Hong Kong residents still took to the streets this morning to get rid of the slogans and posters of opposition groups stuck to the walls and the ground, as seen by the Global Times reporters in the vicinity of Yuen Long subway station and the Amoy Plaza in Kowloon Bay. 
+        RELATED ARTICLES:  HK Police dismiss Amnesty report HK police turn to Weibo for support Sino-British Joint Declaration has no paragraph about "dual universal suffrage": HKSAR gov't Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
