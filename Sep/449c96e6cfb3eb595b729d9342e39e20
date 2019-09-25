@@ -1,0 +1,18 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794333328395","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794333328395",
+                       option
+                   );
+             })()
+ 
+
+
+Photo: Wang JiangboChina successfully launched a new satellite on Wednesday that will study the earth's atmosphere, monitor the marine and space environment, help prevent and reduce disasters and conduct scientific experiments.A Long March-2D rocket blasted off from the Jiuquan Satellite Launch Center in Northwest China's Gansu Province at 8:54 am, carrying the satellite codenamed Yunhai-1 02, the satellite developer told the Global Times on Wednesday.The satellite and the launch vehicle were both developed by Shanghai Academy of Spaceflight Technology of the China Aerospace Science and Technology Corporation in Shanghai.The first Yunhai-1 meteorological satellite was sent into orbit in November 2016.The launch marked the 313th mission of the Long March carrier rocket family. In December 2018, China sent six atmospheric environment research satellites of the Yunhai series into orbit During the week before the 70th anniversary of the People's Republic of China on October 1, China has sent three satellites into space including two that will form part of the constellation of China's self-developed BeiDou Navigation Satellite System, or BDS. China's BDS is one of the four space-based global navigation satellite systems in the world, which include the US-launched GPS, Russia's GLONASS and the European Union's Galileo. The BDS system started to provide global service at the end of 2018, as the construction of the BDS-3 primary system had been completed by then.Forty-one BDS satellites are now in active service.  
+        RELATED ARTICLES:  China launches Yunhai-1 02 satellite China launches six Yunhai-2 satellites for atmospheric environment research Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
