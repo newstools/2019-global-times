@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794372974205","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794372974205",
+                       option
+                   );
+             })()
+ 
+China's State Councilor and Foreign Minister Wang Yi's speech at activities commemorating the Geneva Conventions provides a basis for detailed discussions on the implementation of international humanitarian law (IHL), the head of the regional delegation for East Asia of the International Committee of the Red Cross (ICRC), told the Global Times on Thursday. Chinese authorities are showing growing interests in humanitarian affairs, said Jacques Pellet, the ICRC's East Asia regional head."The ICRC is looking forward to further consolidating its collaboration with the Chinese authorities in the field of IHL," Pellet said.  Wang gave his speech at commemorative events for the 70th anniversary of the signing of the Geneva Conventions at the United Nations Headquarters in New York on Monday. "Humanity is embedded in the genes of humankind and requires the support of justice and courage," Wang said at the event. He called on more effort to let people impacted by humanitarian crises feel love and hope. "Mutual care is the cornerstone of human survival and transcends national borders, races and beliefs," Wang said. Wang also told three heartwarming humanitarian stories. One story was about the Red Cross Society of China's launching of a humanitarian aid program of Angels Tour two years ago, which has helped over 120 Afghan children with congenital heart diseases live a normal life.The examples highlighted by Wang illustrate the universality of the principles at the core of the Geneva Conventions and confirm how deep humanitarian principles are rooted in all cultures across the world, said Pellet.According to a white paper titled Progress in Human Rights over the 40 Years of Reform and Opening-up in China released in 2018, China has provided over 300 international humanitarian relief programs since 2004, with an average annual growth rate of 29.4 percent. These relief programs range from technical aid, material and personal assistance, to food and goods assistance.   
+        RELATED ARTICLES:  Turn to history for inspiration and guidance: Wang Yi on China-US relations Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
