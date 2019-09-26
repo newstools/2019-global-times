@@ -1,0 +1,20 @@
+Employees of China Eastern Airlines, wearing AR glasses, welcome VIP guests at Beijing Daxing International Airport's VIP room on Thursday. Photo: Li Xuanmin/GT  
+
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794364910379","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794364910379",
+                       option
+                   );
+             })()
+ 
+
+Chinese companies have launched the world's first 5G-supported application in the aviation sector at the newly-inaugurated Beijing Daxing International Airport,  a move mirroring China's leading position in pushing forward 5G commercialization.The 5G smart travel system was jointly developed by China Eastern Airlines, telecom equipment maker Huawei and telecom service provider China Unicom. It enables users to complete all boarding procedures at the new airport, from checking-in and clearing security to taking a shuttle bus, by displaying only their faces, without the need to scan personal identification cards.The mega airport, which opened on Wednesday, has been covered by the 5G network deployed by China Unicom. In a field speed test seen by the Global Times, the download speed there reached 1.2GB per second - more than 10 times faster than the current 4G network - and the upload speed neared 1GB per second. As part of the smart travel system, the identification of passengers has also become easier as the augmented-reality-powered glasses worn by airport employees can capture individuals' facial information and compare it with computer-stored data to see if they're permitted to enter certain places, such as VIP rooms, and their corresponding flight details.In addition, China Eastern Airlines rolled out a paperless luggage tracing system. Using a reusable RFID luggage card, passengers can use a smartphone app to log their flight numbers and destinations and then track the status of their luggage. Meanwhile, surveillance cameras installed at the airport under the 5G network can monitor real-time status of the luggage and report any mistakes to airport staff. "This is a landmark example of 5G application in the aviation industry. It showcases the tech standards of China's airports to the world," Wang Li, vice president of China Unicom's Beijing branch, told the Global Times on Thursday. Wang added that China Unicom has built 85 outdoor base stations and 3,000 indoor base stations to support the airport's 5G network.The smart travel system was developed based on Huawei's digital indoor system (DIS). Li Xin, vice president of Huawei's DIS product line, said Thursday that the firm's DIS, run with self-developed chips and integrated designs, leads a generation of technology compared to its rivals. Following this, China Eastern Airlines will "soon" promote the 5G-supported smart travel system to airports in Beijing and Shanghai in addition to the Daxing airport, Huang Lin, an employee of the carrier, told the Global Times. More airports across China will adopt such services gradually, he added.
+ 
+        RELATED ARTICLES:  Autonomous driving gets boost from 5G Huawei opens 5G training center in Britain UK to make own 5G decision Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
