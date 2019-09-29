@@ -1,0 +1,23 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890794391593591",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890794391593591", 
+			  option ); 
+	  })() 
+	
+
+
+Hong Kong police sergeant Lau Chak-kei, who is invited to participate in the celebrations of the 70th anniversary for the founding of the People's Republic of China, has an interview with the Global Times on Sunday at the Hong Kong International Airport before leaving for Beijing. Photo: Screenshot from video by Global TimesHong Kong police sergeant Lau Chak-kei, who was invited to participate in the celebrations for the 70th anniversary of the founding of the People's Republic of China, said that he looks forward to seeing the fireworks, climbing the Great Wall and eating roast duck in Beijing, and many Chinese internet users extended a warm welcome to him.A total of 10 representatives of the Hong Kong Police Force, including Lau, were invited to the military parade and celebrations of the 70th anniversary. They arrived at the Beijing Capital International Airport on Sunday. This will be Lau's first visit to Beijing and he told the Global Times on Sunday that it was an honor to represent the Hong Kong Police Force on the anniversary.Lau attracted wide attention for pointing a shotgun at rioters in self-defense outside Kwai Chung police station in the Hong Kong Special Administrative Region on July 30. He has become a star on Weibo and has gained more than 510,000 followers as of Sunday.Lau told the Global Times at the Hong Kong International Airport before leaving for Beijing that he has two main wishes for his Beijing trip: One is to see the military parade and the other is to go to the Great Wall. Lau's remarks attracted many Chinese netizens' attention and the video of his interview has been viewed more than 4 million times as of Sunday. Many netizens said that they were happy to see Lau come to the Chinese mainland, and that they hope he can enjoy his time in Beijing. "Welcome Lau sir! Thank you for your great effort in putting down the riots and maintaining peace and stability in Hong Kong," one netizen commented. "Nice to see you, but to go to the Great Wall is a bad idea during the Golden Week of the National Day as there will be too many people," said another. "I will show you the best place to have authentic roast duck."According to the Hong Kong police, the invited representatives of the Hong Kong Police Force include police officers and some management personnel who participated in curbing the violence in Hong Kong in the past two months, the China News Service reported in August. Lin Zhiwei, chairman of the Hong Kong Police Forces Association and also one of the invited representatives, said in an interview with the China News Service that the invitation is a great honor and shows the affirmation from the central government for the work of the Hong Kong police. Lin said they will unswervingly overcome all the difficulties to maintain Hong Kong's stability and prosperity. 
+        RELATED ARTICLES:  HK police officer considers moving family to mainland for safety, education  Fake reporters attack HK police officers  HK police officers invited to celebrate 70th anniversary of PRC’s founding in Beijing Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
