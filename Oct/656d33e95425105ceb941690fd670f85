@@ -1,0 +1,23 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890794495346344",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890794495346344", 
+			  option ); 
+	  })() 
+	
+
+
+China reveals its most advanced nuclear-armed intercontinental ballistic missile, the DF-41, at the National Day parade in Beijing on October 1, 2019. Photo: Fan Lingzhi/GTChina's most advanced intercontinental ballistic missile (ICBM), the DF-41, made its debut at the National Day parade in Beijing on Tuesday, which Chinese military experts said is a message to the world that China has sufficient and reliable strategic nuclear power to respond to any "nuclear blackmail" from any country.16 transporter erector launchers of the DF-41 missile were inspected during the parade in Tiananmen Square on Tuesday.A DF-41 missile has an operational range of more than 14, 000 kilometers and can carry about 10 independently targetable nuclear warheads, capable of hitting anywhere on Earth, according to the US think tank Center for Strategic and International Studies, and this would make DF-41 the world's longest range missile, surpassing the range of the US LGM-30 Minuteman which has a reported range of 13,000 kilometers.Yang Chengjun, a Chinese expert on missile technology and nuclear strategy and chief scientist of quantum defense, told the Global Times that the DF-41 is Chinese fourth-generation strategic nuclear weapon and has the longest operational range among all Chinese ICBMs. "This ICBM's research and development was very successful, and its technology is very mature. During testing, there was no failure record," Yang noted.Wu Jian, editor of Defense Weekly under the Shanghai-based Xinmin Evening News, told the Global Times that the multiple transporter erector launchers of the DF-41 missile shown in the parade proved that the People's Liberation Army has already built a massive and advanced system to support the use of this missile. "This proves that China has sufficient and reliable strategic nuclear power, and decision-makers have the confidence to show and use them to respond to any kind of nuclear threat from any country.""No matter how advanced the missile is, it always needs a mature and comprehensive system to make sure it can accurately strike a target, which at least includes intelligence gathering, satellite surveillance, logistics, and construction of launching positions," Wu noted. 
+        RELATED ARTICLES:  Chinese military commissions GJ-11 stealth attack drone China unveils new H-6N bomber with extended range, extra capabilities DF-17 ballistic missile makes debut at National Day parade Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Surviving a mass shooting the wrong path to US citizenshipHorse dancing  College admission scandal reveals moral breakdown in US
