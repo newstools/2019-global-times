@@ -1,0 +1,19 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794910017572","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794910017572",
+                       option
+                   );
+             })()
+ 
+
+
+Video: Xinhua
+
+Four people have been killed and six others injured, two of them seriously, in a chemical plant explosion in South China's Guangxi Zhuang Autonomous Region on Tuesday, local authorities said.The explosion happened at around 11:15 am in Luchuan county in the city of Yulin, the city's emergency management bureau said.According to video on social media, thick smoke was seen rising from the factory and a factory building has been heavily damaged.The rescue work has ended and the investigation shows that the explosion occurred at a reactor in the resin synthesis workshop, where phenolic resin is made from formaldehyde and phenol. There were about five tons of raw materials in the workshop, according to the Xinhua News Agency.Global Times 
+        RELATED ARTICLES:  Gas explosion in East China's Wuxi kills 9, injures 10 6 dead, 9 injured in restaurant gas explosion in east China Six people killed in East China gas explosion Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Girls three times more likely to be victims of cyberbullying Great Pacific AirshowSurviving a mass shooting the wrong path to US citizenship
