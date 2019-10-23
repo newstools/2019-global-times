@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794088351159","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794088351159",
+                       option
+                   );
+             })()
+ 
+Video: Sina Weibo account of China Railway Guangzhou Group A railway company has clarified a rumor that a foreign passenger pulled an emergency brake on a Chinese high-speed train, saying the man mistakenly pressed a door button that set off an alarm.When the high-speed train, which runs from Shanghai to Guangzhou, stopped at Changsha on Monday evening, the passenger pressed a manual door button by mistake. That resulted in the door closing with the sound of an alarm, according to a statement China Railway Guangzhou Group released on its Sina Weibo account on Wednesday.The person seemed to be leaning out of the open door taking photos when his arm accidentally touched the button, as shown in a video the railway company released with the statement.Railway staff members arrived on the scene immediately and confirmed that the protection device of the emergency brake remained intact, and the train left the station without any delay, the statement said.The statement came after a video went viral on Chinese social media, claiming the foreign passenger pulled an emergency brake without being in an emergency and was not penalized for it much to the dissatisfaction of many people.Any person who operates an emergency brake device will be processed in accordance with related laws and regulations, said the railway police department, according to the statement.Passengers should refrain from leaning on doors or the sides of doors where the buttons are, the railway company said. 
+        RELATED ARTICLES:  Bullet train conducts test run on Xingwen-Guiyang section of Chengdu-Guiyang railway Beijing-Zhangjiakou high-speed railway starts debugging Railway stations across China witness travel rush Trial standards released for maglev railway technology Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US PG&E blackouts reveal mismanaged concern over public safetyGirls three times more likely to be victims of cyberbullying Great Pacific Airshow
