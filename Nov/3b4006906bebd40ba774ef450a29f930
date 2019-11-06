@@ -1,0 +1,21 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890795576692097",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890795576692097", 
+			  option ); 
+	  })() 
+	
+Pro-establishment Hong Kong legislator Junius Ho Kwan-yiu was attacked in Tuen Mun Wednesday morning, sparking wide criticism against the violence. A lawyer said the attacker could be pressed with "intended murder" charge and receive life sentence. An attacker was arrested and sent to Tuen Mun Hospital after he was subdued.A video of the attack shows a man in blue approached Ho first and after a brief conversation between the two, and all of sudden, the man stabbed Ho in the chest."The attack came very suddenly this morning and left a wound of 2 centimeters. Luckily, the knife did not reach my heart. I believe the perpetrator had some mental issues. We all need to be careful. I will be back to work as soon as possible," said Ho.Ho added that pro-establishment voices have been threatened by black forces, and the rule for the upcoming district election stands sabotaged after rioters perpetrated vicious attacks on candidates. Hong Kong government later condemned the attack, urging residents to rationally express their opinion and respect each other. Ho's assistant told the Global Times that two of his other colleagues also sustained injuries to the hand and arm in the same attack.   Lawrence Ma, a barrister and chairman of the Hong Kong Legal Exchange Foundation, believes the attacker is liable for a life sentence for "intended murder." Ma explained that because the attacker showed no concern toward the consequences of his attack, a more serious charge should be pressed on him.Ma noted the attack on Ho was probably a ramification of the attack on Andrew Chiu Ka-yin last week."Hong Kong is mired in violent politics," Ma told the Global Times on Wednesday. Just recently local councilor Andrew Chiu was severely injured after an attacker bit off a part of his ear when Chiu reportedly attempted to prevent the attacker from fleeing the scene.  
+        RELATED ARTICLES:  HKers can stand in solidarity: HK legislator Junius Ho Kwan-yiu Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Antique cars highlighted in US auto showsWildfire aftermathRose queens
