@@ -1,0 +1,21 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+ 
+	  (function()
+	   { 
+		  var option ={
+			  "auto_play":"0",
+			  "file_id":"5285890795691205724",
+			  "app_id":"1253985869",
+			  "width":1920,
+			  "height":1080,
+			  "https":1
+		  }; /*调用播放器进行播放*/ 
+		  new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ 
+			  "id_video_container_5285890795691205724", 
+			  option ); 
+	  })() 
+	
+Radical protesters in Hong Kong on Monday morning set up barricades on many roads, damaged the railway, stopped people from traveling, and tried to force labor, school and market strikes. A number of frenzied thugs then clashed with Hong Kong police when the latter were struggling to clear the roadblocks.A video online showed a policeman was forced to pull out his gun as he was facing several mobs alone. He grabbed a rioter on his left hand and waved a gun with his right hand to warn another black-clad protester to stay away. The second thug, however, ignored the warning, kept approaching and tried to snatch the gun from the police. The policeman had to open fire under the circumstances. The officer then shot again when a third rioter was rushing over him and trying to snatch his gun.Also on Monday, a video showed rioters pouring flammable liquid on a middle-aged Hongkonger, and set him on fire when he was publicly expressing his opposition to them, saying "we are all Chinese." The man soon turned into a fireball. He was severely burned and reportedly in critical condition.As a mainland media concerned about the ongoing situation in Hong Kong, the Global Times firmly supports the Hong Kong police in shooting down the rioters under the above-mentioned circumstances. The use of force by the Hong Kong police re-established the power of legal justice that was despised by radical protesters: Attacking and threatening the police in the process of law enforcement should face all kinds of legal risks, including being shot dead on the spot.We strongly condemn the barbarism of the mobs that set fire to an ordinary citizen who disagrees with them. Their heinous performance is no different from that of terrorists. Claiming democracy and freedom, the rioters cannot tolerate people who express different perspectives. They are showing vicious and primitive autocratic fanaticism. The radical protesters who claim to be valiant have resorted to violence, with their targets ranging from police officers to ordinary people who simply don't support them. They are creating terror that is unprecedented in any civilized society, by fatally stabbing pro-establishment legislator, throwing Molotov cocktails into courts and setting ordinary people on fire.Actions must be taken to resolutely control the increasingly rampant mobs. It is time for all Hongkongers to step forward to defend the city's rule of law. We want to tell Hong Kong police: Fear nothing and resolutely guard the city's peace and tranquility in accordance with law. Be strong, be tough. You are fighting in the frontline but you are not alone. You are supported by a great number of people who love the country and the city. When necessary, the People's Armed Police Force and the People's Liberation Army Hong Kong Garrison will back you up in accordance with the Basic Law. We call on the vast majority of Hong Kong citizens to express your attitude more solidly and help police against rioters. Those who still pity rioters must wake up: The mobs are destroying the civilized and modernized Hong Kong as well as Hongkongers' home and future. We also warn the radical protesters: You are on the edge of doom. Those who are coerced to be "valiant" should walk away as soon as possible when you still can make the call. Those who stubbornly engage in evil acts will eventually be punished by law and morality.  
+        RELATED ARTICLES:  HK rioter sets man on fire Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Youth climate strikeAntique cars highlighted in US auto showsWildfire aftermath
