@@ -1,0 +1,17 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890794715151771","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               /*调用播放器进行播放*/
+               new qcVideo.Player(
+                       /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/
+                       "id_video_container_5285890794715151771",
+                       option
+                   );
+             })()
+ 
+ 
+Three-time Chinese Olympic champion swimmer Sun Yang appeared at a public hearing in the Court of Arbitration for Sport (CAS) in Montreux, Switzerland, on Friday, as the World Anti-Doping Agency (WADA) appealed against Sun Yang and FINA over FINA's previous decision in favor of Sun on his alleged anti-doping rule violations. Before the hearing started, Sun told Xinhua that he intended for all who are following the case to know the truth. "I want the world to know what happened on the night of September 4, 2018, to prove my innocence. I also want to call on international sports organizations in public to protect the basic rights of athletes," Sun said. Attended by around 200 people, Friday's hearing is just the second one held public in the history of CAS. It's brought by WADA against Sun Yang and FINA in relation to a decision issued by the FINA Doping Panel dated January 3, 2019, whereby Sun Yang was found not to have committed an anti-doping rule violation following an out-of-competition doping test. Sun Yang won gold in 200m freestyle at the 2016 Rio Olympic Games, and 400m and 1500m freestyle at 2012 Olympics in London. The 27-year-old also claimed 200m and 400m freestyle titles at the 2019 FINA World Championships in Gwangju, South Korea. 
+        RELATED ARTICLES:  Sun Yang wins gold in men's 200m freestyle at FINA Worlds Sun Yang wins fourth consecutive world title in 400m freestyle Chinese scientists design gene-editing tool using light to kill cancer cellsAbsence at PLA maritime parade will prevent US from learning about Chinese Navy: expertsChinese American organization condemns increasing racial profiling in US Western media creates illusion for human trafficking victimsBig baby makes debutChinese film debuts at DTLAFF
